@@ -1,0 +1,18 @@
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\bin\Debug\netcoreapp2.1\DALLayer.deps.json
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\bin\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\bin\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.csproj.CoreCompileInputs.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.AssemblyInfoInputs.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.AssemblyInfo.cs
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.csprojAssemblyReference.cache
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\bin\Debug\netcoreapp2.1\DALLayer.deps.json
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\bin\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\bin\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.csprojAssemblyReference.cache
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.csproj.CoreCompileInputs.cache
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.AssemblyInfoInputs.cache
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.AssemblyInfo.cs
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\DALLayer\obj\Debug\netcoreapp2.1\DALLayer.pdb

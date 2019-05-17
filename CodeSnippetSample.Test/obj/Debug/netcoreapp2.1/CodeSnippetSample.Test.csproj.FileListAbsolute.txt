@@ -1,0 +1,46 @@
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.deps.json
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.runtimeconfig.json
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.runtimeconfig.dev.json
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.csprojAssemblyReference.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.csproj.CoreCompileInputs.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.AssemblyInfoInputs.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.AssemblyInfo.cs
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Views.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Views.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.csproj.CopyComplete
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Views.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Views.pdb
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.deps.json
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.runtimeconfig.json
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.runtimeconfig.dev.json
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.Test.pdb
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\CodeSnippetSample.pdb
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.csprojAssemblyReference.cache
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.csproj.CoreCompileInputs.cache
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.AssemblyInfoInputs.cache
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.AssemblyInfo.cs
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.csproj.CopyComplete
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.dll
+D:\Akbar\Samples\CodeSnippetSample\CodeSnippetSample.Test\obj\Debug\netcoreapp2.1\CodeSnippetSample.Test.pdb

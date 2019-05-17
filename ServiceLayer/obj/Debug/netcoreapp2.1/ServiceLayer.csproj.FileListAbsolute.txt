@@ -1,0 +1,24 @@
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.deps.json
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csprojAssemblyReference.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfo.cs
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CopyComplete
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Akbar\Interview Preparation\Sample\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.pdb
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.deps.json
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\ServiceLayer.pdb
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\DALLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\bin\Debug\netcoreapp2.1\DALLayer.pdb
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csprojAssemblyReference.cache
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.AssemblyInfo.cs
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.csproj.CopyComplete
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.dll
+D:\Akbar\Samples\CodeSnippetSample\ServiceLayer\obj\Debug\netcoreapp2.1\ServiceLayer.pdb
